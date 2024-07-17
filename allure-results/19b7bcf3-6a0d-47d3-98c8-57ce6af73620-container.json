@@ -1,0 +1,1 @@
+{"uuid":"19b7bcf3-6a0d-47d3-98c8-57ce6af73620","name":"tests.GetRandomPet.setup","children":["9ec8429a-979d-4e07-9171-8602d3508b6e"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721243757300,"stop":1721243757300}],"afters":[],"start":1721243757300,"stop":1721243757300}

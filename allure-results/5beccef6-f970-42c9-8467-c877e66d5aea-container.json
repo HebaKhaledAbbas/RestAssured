@@ -1,0 +1,1 @@
+{"uuid":"5beccef6-f970-42c9-8467-c877e66d5aea","name":"tests.AddNewPet","children":["bc675648-9a6d-4abb-9859-61204445446a"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721245682764,"stop":1721245682764}],"afters":[],"start":1721245678743,"stop":1721245683535}

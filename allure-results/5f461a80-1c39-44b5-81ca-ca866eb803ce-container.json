@@ -1,0 +1,1 @@
+{"uuid":"5f461a80-1c39-44b5-81ca-ca866eb803ce","name":"tests.GetAllPetsByStatus","children":["bc735f03-9a7a-4c37-a19d-420a9d34dee1"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721245482701,"stop":1721245482701}],"afters":[],"start":1721245479492,"stop":1721245484464}
